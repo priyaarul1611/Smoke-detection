@@ -71,6 +71,8 @@ Alert message is transmitted via the simulated IoT interface.
 
 **Circuit Diagram**
 
+<img width="1670" height="794" alt="Screenshot 2026-08-06 082559" src="https://github.com/user-attachments/assets/94cdb706-645b-41f9-b4a3-63a73b4bf805" />
+
 
 
 
@@ -81,6 +83,8 @@ Alert message is transmitted via the simulated IoT interface.
 
 
 **Output**
+<img width="1919" height="1008" alt="Screenshot 2026-08-05 093106" src="https://github.com/user-attachments/assets/7626872d-b611-4010-af45-9336d530e731" />
+
 
 
 
